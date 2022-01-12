@@ -1,5 +1,5 @@
 # Chat Application in Flutter And Firebase
 
-Flutter chat app
+Flutter chat app with registration(login) part 
 
 
